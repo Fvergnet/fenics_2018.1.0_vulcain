@@ -8,7 +8,6 @@ Scripts to install fenics locally on clusters
 
   ```
   apt-get install -y wget xz-utils build-essential zlib1g-dev checkinstall libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev gfortran libblas-dev liblapack-dev libopenmpi-dev openmpi-bin openssh-client libgl1-mesa-dev \
-  && rm -rf /var/lib/apt/lists/*
   ```
 
 ### Installation
