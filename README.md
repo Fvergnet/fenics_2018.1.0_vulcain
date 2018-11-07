@@ -1,7 +1,8 @@
-# fenics_2018.1.0_vulcain
-Scripts to install fenics locally on vulcain.
+# fenics_on_cluster
+Scripts to install fenics locally on clusters
 
-## Requirements
+## On Vulcain
+### Requirements
 - Ubuntu 16.04
 - The following packages have to be installed with apt-get (by a sudoer) :
 
@@ -10,4 +11,4 @@ Scripts to install fenics locally on vulcain.
   && rm -rf /var/lib/apt/lists/*
   ```
 
-## Installation
+### Installation
