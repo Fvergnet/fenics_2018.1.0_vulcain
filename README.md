@@ -11,3 +11,5 @@ Scripts to install fenics locally on clusters
   ```
 
 ### Installation
+
+## Docker container
