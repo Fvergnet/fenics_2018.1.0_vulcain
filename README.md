@@ -32,6 +32,7 @@ dijitso
 ufl
 ffc
 instant
+dolfin
 ```
 - the remeshing tool `mmg`(www.mmgtools.org)
 
